@@ -1,7 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0161f27e-bdcc-4abb-ae15-16075175cf76" name="Default Changelist" comment="" />
+    <list default="true" id="0161f27e-bdcc-4abb-ae15-16075175cf76" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/behavioral-pattern/ConcreteFactory/BusImpl1Factory1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/behavioral-pattern/ConcreteFactory/BusImpl2Factory1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/behavioral-pattern/ConcreteFactory/ConcreteFactory1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/behavioral-pattern/ConcreteFactory/ConcreteFactory2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/behavioral-pattern/META-INF/behavioral-pattern.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/behavioral-pattern/abstractBuilder/ComputerBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/behavioral-pattern/abstractFactory/AbstractFactory2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/behavioral-pattern/abstractProduct/Bus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/behavioral-pattern/abstractProduct/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/behavioral-pattern/abstractProduct/Color.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/behavioral-pattern/abstractProduct/Shape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/behavioral-pattern/abstratFactory/AbstractFactory1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/behavioral-pattern/abstratFactory/SimpleFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/behavioral-pattern/client/Client0.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/behavioral-pattern/client/Client1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/behavioral-pattern/client/Client2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/behavioral-pattern/client/Client3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/behavioral-pattern/concreteBuilder/LenovoComputerBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/behavioral-pattern/concreteBuilder/MacComputerBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/behavioral-pattern/concreteProduct/BusImpl1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/behavioral-pattern/concreteProduct/BusImpl2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/behavioral-pattern/concreteProduct/CarImpl1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/behavioral-pattern/concreteProduct/CarImpl2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/behavioral-pattern/concreteProduct/colorImpl/Blue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/behavioral-pattern/concreteProduct/colorImpl/Red.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/behavioral-pattern/concreteProduct/shapeImpl/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/behavioral-pattern/concreteProduct/shapeImpl/Square.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/behavioral-pattern/director/ComputerDirector.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/behavioral-pattern/product/Computer.class" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +50,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -26,7 +62,11 @@
     </option>
   </component>
   <component name="ProjectId" id="1m3oIrCfhfrGU1smlgR4WsMLsMj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
@@ -52,20 +92,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Client3">
-    <configuration name="Client0" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="client.Client0" />
-      <module name="behavioral-pattern" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="client.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Client4">
     <configuration name="Client1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="client.Client1" />
       <module name="behavioral-pattern" />
@@ -105,12 +132,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Client4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="client.Client4" />
+      <module name="behavioral-pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="client.Client5" />
+      <module name="behavioral-pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Client4" />
+        <item itemvalue="Application.Client5" />
         <item itemvalue="Application.Client3" />
         <item itemvalue="Application.Client2" />
         <item itemvalue="Application.Client1" />
-        <item itemvalue="Application.Client0" />
       </list>
     </recent_temporary>
   </component>
@@ -125,11 +179,22 @@
       <option name="presentableId" value="Default" />
       <updated>1608731559235</updated>
       <workItem from="1608731562313" duration="2400000" />
-      <workItem from="1608773911549" duration="9549000" />
+      <workItem from="1608773911549" duration="14186000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
